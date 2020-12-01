@@ -1,0 +1,32 @@
+
+
+
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Roboto Slab', serif ;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#school {
+    width: 100%;
+}
+
+#container {
+    background-color: cornflowerblue;
+}
+
+marquee {
+    background-color: cornflowerblue;
+    padding-top: 5px;
+}
+iframe {
+    width: 80%;
+    
+}
+    
+    
